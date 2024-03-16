@@ -5,4 +5,4 @@ Hi! My name is Alexey, also known in some groups as abumas.
 
 Some stats:
 
-![stats badge](https://komarev.com/ghpvc/?username=fortune76&color=red&style=for-the-badge)
+![stats badge](https://komarev.com/ghpvc/?username=abumasdev&color=red&style=for-the-badge)
